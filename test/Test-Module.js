@@ -1,0 +1,1 @@
+exports.myName = "This is my name";
