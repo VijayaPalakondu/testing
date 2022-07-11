@@ -1,7 +1,7 @@
 # Node.js
 - task: BrowserStackConfig@0
   inputs:
-    BrowserStackServiceEndPoint: 'Azure'
+    BrowserStackServiceEndPoint: 'BrowserStack'
     browserstackLocal: true
     bsLocalOptions: '{ "forceLocal": true }'
 - task: BrowserStackResults@1
